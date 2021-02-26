@@ -1,2 +1,15 @@
 В ветке master слияние происходит после всех коммитов из других веток
-А в ветке demo слияние происходит в середине и в конце истории всех коммитов этой ветки
+А в ветке demo слияние происходит в середине и в конце(по истории всех коммитов этой ветки)
+Коммиты(всего их 10):
+  add comments
+  
+  Merge remote-tracking branch 'origin/hat'
+  Merge remote-tracking branch 'origin/buttons' into boots_buttons
+  Merge remote-tracking branch 'origin/boots' into boots_buttons
+  
+  fix readme
+  dots
+  README added
+  boots
+  heat added
+  init
